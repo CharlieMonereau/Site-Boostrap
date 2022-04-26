@@ -1,0 +1,44 @@
+.photo{
+    width: 80%;
+    height: auto;
+
+
+}
+
+
+
+.bg-primary{
+    background-color: #7418fa !important; 
+}
+
+
+.text-primary{
+    color: #7418fa !important;
+}
+
+
+.btn-primary{
+    background-color: #7418fa !important;
+}
+
+
+
+
+.photo-blog{
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+.radius{
+    border-radius: 75px;
+}
+
+
+
+a:after {
+    padding-left: 5px;
+    content: "→";
+  }
